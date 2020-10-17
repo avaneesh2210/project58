@@ -1,0 +1,17 @@
+body{
+  text-align: center;
+  background: linear-gradient( #E1BEE7 0%,#9OCAF9 100%);
+  background-repeat: no-repeat;
+}
+#1stimage{
+  border-radius: 100px;
+}
+.menu{
+    list-style: none;
+    font-family: cursive;
+    float: right;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    color: fuchsia;
+}
